@@ -4,7 +4,8 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas no SENAC!
 - 💻 Estudando Java e Javascript..
 
-
+<img height="180" width="420" src="[https://github-readme-stats.vercel.app/api?username=maricsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://www.codewars.com/users/maricsouza/badges/large)"/>
+--- 
 <div align="center">
   <a href="https://github.com/maricsouza">
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=maricsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
