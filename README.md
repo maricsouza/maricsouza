@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Mariana 👋
 
-- 👩‍💻 Sou desenvolvedora FullStack!
-- 💻 Estudando Java..
+- 👩‍💻 Sou desenvolvedora de softwares!!
+- 📚 Cursando Análise e Desenvolvimento de Sistemas no SENAC!
+- 💻 Estudando Java e Javascript..
 
 
 <div align="center">
