@@ -2,7 +2,7 @@
 
 - 👩‍💻 Sou desenvolvedora de softwares!!
 - 📚 Cursando Análise e Desenvolvimento de Sistemas no SENAC!
-- 💻 Estudando Java e Javascript..
+- 💻 Estudando Java, Javascript e .NET..
 <img height="100" width="300" src="https://www.codewars.com/users/maricsouza/badges/small"/>
 
   --- 
